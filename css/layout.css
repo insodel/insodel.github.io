@@ -16,8 +16,6 @@ body {
 }
 
 
-
-
 /* Main Page Layout */
 
 #main-content {
@@ -26,8 +24,6 @@ body {
   flex-direction: column;
   gap: 96px;
 }
-
-
 
 
 /* Portfolio Header */
